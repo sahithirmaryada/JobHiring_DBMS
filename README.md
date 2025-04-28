@@ -8,7 +8,7 @@ Git, PHP(Xampp), MySQL
 ## Setup Instructions
 
 1. Clone the Repository
-    git clone https://github.com/user/JobHiring_DBMS.git
+    git clone https://github.com/sahithirmaryada/JobHiring_DBMS.git
     cd JobHiring_DBMS
 
 2. Extract Application Files
